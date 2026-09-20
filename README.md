@@ -4,6 +4,11 @@ Technical assessment prototype for **REQ2602624** (Consultant, IT Systems and Da
 
 This prototype shows how a regional organisation could ingest heterogeneous country IFMIS expenditure extracts, store them, harmonise them into one structure, classify records to simplified SHA and SRHR codes, flag data-quality issues, and let an analyst review, download, and trace results back to the original source.
 
+## Author / contact
+
+- **Name:** Shepherd Maverudze  
+- **Email:** [shepmave@gmail.com](mailto:shepmave@gmail.com)
+
 ## Prerequisites
 
 - Python 3.10+ recommended
