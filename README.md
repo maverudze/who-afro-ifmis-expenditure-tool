@@ -130,7 +130,6 @@ pytest tests/test_core.py -q
 
 AI-assisted tools were used while completing this assessment:
 
-- **ChatGPT** — for design discussion and structuring the approach  
-- **Cursor** — for implementing and editing code  
+- **ChatGPT** — for design discussion, structuring the approach, and assisting with implementation
 
 The submitted solution was reviewed and can be explained, navigated, and defended by the candidate. Use of these tools is disclosed as required by the assessment brief.
