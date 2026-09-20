@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pyyaml
+duckdb
+streamlit
+plotly
+pytest

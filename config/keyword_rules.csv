@@ -1,0 +1,22 @@
+pattern,sha_code,srhr_code,confidence
+contracept,HC.5.1,SRHR.FP,medium
+family planning,HC.5.1,SRHR.FP,medium
+planification familiale,HC.5.1,SRHR.FP,medium
+hiv,HC.5.1,SRHR.HIV,medium
+arv,HC.5.1,SRHR.HIV,medium
+vih,HC.5.1,SRHR.HIV,medium
+sida,HC.6.1,SRHR.HIV,medium
+antenatal,HC.6.4,SRHR.MH,medium
+anc outreach,HC.6.4,SRHR.MH,medium
+obstetric,HC.5.1,SRHR.MH,medium
+accouchement,HC.5.1,SRHR.MH,medium
+matern,HC.6.1,SRHR.MH,low
+youth srh,HC.6.1,SRHR.AH,medium
+adolescent,HC.6.1,SRHR.AH,medium
+cervical,HC.6.3,SRHR.RC,medium
+cancer du col,HC.6.3,SRHR.RC,medium
+sgbv,HC.1.3,SRHR.SGBV,medium
+gbv,HC.1.3,SRHR.SGBV,medium
+vbg,HC.1.3,SRHR.SGBV,medium
+vaccin,HC.6.2,SRHR.NA,medium
+immunis,HC.6.2,SRHR.NA,medium

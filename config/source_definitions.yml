@@ -1,0 +1,25 @@
+# How each country extract is read (file type, dates, currency).
+
+CTA:
+  country_name: Country A
+  file_type: csv
+  date_format: "%d/%m/%Y"
+  currency: KES
+  encoding: utf-8
+
+CTB:
+  country_name: Country B
+  file_type: xlsx
+  sheet_name: Depenses
+  header_row: 7
+  date_format: "%d-%m-%Y"
+  currency: XOF
+  coa_sheet_name: Plan_comptable
+
+CTC:
+  country_name: Country C
+  file_type: json
+  transaction_key: transactions
+  date_format: "%Y-%m-%d"
+  currency: RWF
+  nested_key: subTransactions
