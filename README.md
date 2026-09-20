@@ -6,7 +6,7 @@ This prototype shows how a regional organisation could ingest heterogeneous coun
 
 ## Author / contact
 
-- **Name:** Shepherd Maverudze  
+- **Name:** Shepherd  
 - **Email:** [shepmave@gmail.com](mailto:shepmave@gmail.com)
 
 ## Prerequisites
